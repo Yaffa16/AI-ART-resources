@@ -3,7 +3,7 @@ Courses
 
     ML4a : 
     https://ml4a.github.io/ml4a/ : (Python)
-    This covers a lot of tips, including courses  AI, interactive demos and readings. This is the most exhaustive resource to study art     and AI currently.
+    This covers a lot of tips, including courses  AI, interactive demos and readings. This is the most exhaustive resource to study art and AI currently.
 
     Ml5.js :
     https://ml5js.org/ : (js/Py)
@@ -11,12 +11,11 @@ Courses
 
     Runway ML : 
     https://runwayml.com/ : (no programming (Freemium))
-    This is a  software to get you running advanced ML  algorithms off the ground with no programming required. It gives multiple           outputs for web, OSC and sockets. 
+    This is a  software to get you running advanced ML  algorithms off the ground with no programming required. It gives multiple   outputs for web, OSC and sockets. 
 
     Wekinator: 
     http://www.wekinator.org/ : (node-based programming)
-    Machine Learning for Musicians and Artists - an Online Machine Art Course at Kadenze: No programming : 
-    This program lets you create simple Ml models and has an output that can be taken into processing via OSC. 
+    Machine Learning for Musicians and Artists - an Online Machine Art Course at Kadenze: No programming : This program lets you create simple Ml models and has an output that can be taken into processing via OSC. 
 
     Teachable Machines : 
     https://teachablemachine.withgoogle.com/ : (node-based programming / js)
