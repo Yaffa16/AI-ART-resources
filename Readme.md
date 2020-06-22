@@ -18,14 +18,16 @@ Courses
     Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone
 
 2. Podcasts / Discussions : 
-    Lex friedman’s AI podcast : https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
-    
-    Couch Lessons : AI + Creativity : 
-    https://twitter.com/couchlessons
-    
-    Tech + art podcast : https://www.maketechart.com/podcast/
-    This  is a really really good podcast that speaks to people working in this field and unravels their creative practices.
+
+        Lex friedman’s AI podcast :
+        https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+
+        Couch Lessons : AI + Creativity : 
+        https://twitter.com/couchlessons
+
+        Tech + art podcast : https://www.maketechart.com/podcast/
+        This  is a really really good podcast that speaks to people working in this field and unravels their creative practices.
 
 3. Newsletters : 
 
-    A really well curated list of excellent newsletters here : https://aiartists.org/ai-newsletters
+            A really well curated list of excellent newsletters here : https://aiartists.org/ai-newsletters
